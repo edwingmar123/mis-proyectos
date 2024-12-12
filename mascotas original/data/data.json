@@ -1,0 +1,72 @@
+{
+  "macotas": [
+    {
+      "nombre": "Amigutos",
+      "descripcion": "alegre",
+      "url": "https://static.vecteezy.com/system/resources/thumbnails/035/563/065/small_2x/ai-generated-cute-and-fun-dogs-on-transparent-background-png.png",
+      "animal": "perro",
+      "raza": "labrador",
+      "color": "amarillo",
+      "id": "80c7"
+    },
+    {
+      "id": "b62ca2f4-3994-44b3-a99e-26369d5427a8",
+      "nombre": "tony",
+      "descripcion": "Soy feliz me gusta comer",
+      "url": "https://png.pngtree.com/png-clipart/20230429/ourmid/pngtree-doberman-isolated-dog-on-white-background-png-image_6746736.png",
+      "animal": "perro",
+      "raza": "doberman",
+      "color": "rojo"
+    },
+    {
+      "id": "97ea8b0b-f968-472f-b888-f765fc8a47b4",
+      "nombre": "firulais",
+      "descripcion": "es muy bonito",
+      "url": "https://static.vecteezy.com/system/resources/previews/022/984/235/original/cartoon-dog-transparent-free-png.png",
+      "animal": "perro",
+      "raza": "pincher",
+      "color": "verde"
+    },
+    {
+      "id": "eb2ff5a0-1065-41c1-bc64-25d783a0450a",
+      "nombre": "lucas",
+      "descripcion": "boniro",
+      "url": "https://static.vecteezy.com/system/resources/previews/012/893/854/non_2x/walking-cat-transparent-background-free-png.png",
+      "animal": "gato",
+      "raza": "perza",
+      "color": "amarillo"
+    }
+  ],
+  "users": [
+    {
+      "id": "100",
+      "name": "Yudith",
+      "email": "yudith@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "840df79f-6e6e-4e73-9fad-1a2b2c689dd7",
+      "nombre": "f@gmail.com",
+      "descripcion": "f",
+      "clave": "1"
+    },
+    {
+      "id": "8490253d-1cf5-4c7c-a1e8-8c44b258b19e",
+      "nombre": "t@gmail.com",
+      "descripcion": "e",
+      "clave": "1"
+    },
+    {
+      "id": "72e0ff4c-455b-426e-94b3-c770f6adb906",
+      "nombre": "m@gmial.com",
+      "descripcion": "m",
+      "clave": "1"
+    }
+  ],
+  "favoritos": [
+    {
+      "": "",
+      "id": "07a4"
+    }
+  ]
+}
